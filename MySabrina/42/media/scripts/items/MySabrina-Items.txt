@@ -1,0 +1,184 @@
+module MySabrina
+{
+    imports
+    {
+    Base,
+    }
+	
+	item MySabrinaP1
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #1,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP1,
+		WorldStaticModel = MySabrinaP1,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP2
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #2,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP2,
+		WorldStaticModel = MySabrinaP2,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP3
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #3,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP3,
+		WorldStaticModel = MySabrinaP3,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP4
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #4,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP4,
+		WorldStaticModel = MySabrinaP4,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP5
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #5,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP5,
+		WorldStaticModel = MySabrinaP5,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP6
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #6,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP6,
+		WorldStaticModel = MySabrinaP6,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP7
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #7,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP7,
+		WorldStaticModel = MySabrinaP7,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP8
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #8,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP8,
+		WorldStaticModel = MySabrinaP8,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP9
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #9,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP9,
+		WorldStaticModel = MySabrinaP9,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP10
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #10,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP10,
+		WorldStaticModel = MySabrinaP10,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP11
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #11,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP11,
+		WorldStaticModel = MySabrinaP11,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP12
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #12,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP12,
+		WorldStaticModel = MySabrinaP12,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP13
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #13,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP13,
+		WorldStaticModel = MySabrinaP13,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP14
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #14,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP14,
+		WorldStaticModel = MySabrinaP14,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP15
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #15,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP15,
+		WorldStaticModel = MySabrinaP15,
+		Tags = base:ignorezombiedensity,
+	}
+
+	item MySabrinaP16
+	{ 
+		DisplayName = Sabrina Carpenter - Poster #16,
+		DisplayCategory = Memento,
+		ItemType          = base:normal,
+		Weight = 0.2,
+		Icon = MySabrinaP16,
+		WorldStaticModel = MySabrinaP16,
+		Tags = base:ignorezombiedensity,
+	}
+
+}

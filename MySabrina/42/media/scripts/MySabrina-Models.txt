@@ -1,0 +1,116 @@
+module MySabrina
+{
+
+model MySabrinaP1
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster1,
+	scale = 2.0,
+}
+
+model MySabrinaP2
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster2,
+	scale = 2.0,
+}
+
+model MySabrinaP3
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster3,
+	scale = 2.0,
+}
+
+model MySabrinaP4
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster4,
+	scale = 2.0,
+}
+
+model MySabrinaP5
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster5,
+	scale = 2.0,
+}
+
+model MySabrinaP6
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster6,
+	scale = 2.0,
+}
+
+model MySabrinaP7
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster7,
+	scale = 2.0,
+}
+
+model MySabrinaP8
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster8,
+	scale = 2.0,
+}
+
+model MySabrinaP9
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster9,
+	scale = 2.0,
+}
+
+model MySabrinaP10
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster10,
+	scale = 2.0,
+}
+
+model MySabrinaP11
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster11,
+	scale = 2.0,
+}
+
+model MySabrinaP12
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster12,
+	scale = 2.0,
+}
+
+model MySabrinaP13
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster13,
+	scale = 2.0,
+}
+
+model MySabrinaP14
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster14,
+	scale = 2.0,
+}
+
+model MySabrinaP15
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster15,
+	scale = 2.0,
+}
+
+model MySabrinaP16
+{
+	mesh = WorldItems/MySabrinaP,
+	texture = WorldItems/MyPoster16,
+	scale = 2.0,
+}
+
+}
